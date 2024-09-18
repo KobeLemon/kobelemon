@@ -4,7 +4,7 @@ Hello, GitHub! 👋
 
 I'm Kobe Lemon, a student at Brigham Young University-Idaho majoring in Software Development. I am greatly interested in computer science, data science, web development, game development, and all things tech! Welcome to my GitHub profile!
 
-Here is my [Software Development Portfolio](https://kobelemon.github.io/kobe-portfolio/)!
+Here is my [Software Development Portfolio](https://kobelemon.github.io/kobe-web-portfolio/)!
 
 ## About Me
 
