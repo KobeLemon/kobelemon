@@ -9,7 +9,7 @@ Here is my [Software Development Portfolio](https://kobelemon.github.io/kobe-web
 ## About Me
 
 - 🔭 I’m currently working on making a "[Virtual Bookshelf](https://github.com/KobeLemon/VirtualBookshelf)" where you can organize all of your media, such as books, music, TV shows, movies, and websites.
-- 🌱 I’m currently learning C#, Blazor, and Unit Testing.
+- 🌱 I’m currently learning Godot, C#, Blazor, and Unit Testing.
 - 📝 My goals are to one day create my own indie game, and to become an expert in C# and Python.
 
 ## Technologies and Tools
@@ -17,12 +17,11 @@ Here is my [Software Development Portfolio](https://kobelemon.github.io/kobe-web
 - Proficient in: 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C Sharp Logo" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript Logo" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C Sharp Logo" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next JS Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="Tailwind CSS" alt="Tailwind CSS Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" title="JSON" alt="JSON Logo" width="50" height="50"/>
