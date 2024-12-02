@@ -6,17 +6,28 @@ I'm Kobe Lemon, a student at Brigham Young University-Idaho majoring in Software
 
 Here is my [Software Development Portfolio](https://kobelemon.github.io/kobe-web-portfolio/)!
 
+I just finished a demo of my first game, Maze Bouncer, made in the Godot Game Engine! I used assest from Brackey's "[First Game in Godot](https://www.youtube.com/watch?v=LOhfqjmasi0)" project & [Itch.io](https://itch.io/), but the overall game itself is my creation.
+
+- [Click here](https://github.com/KobeLemon/maze-bouncer) for the repo!
+- [Click here](https://kobelemon.github.io/maze-bouncer-web/) for the live demo! (playable in your browser)
+
 ## About Me
 
-- 🔭 I’m currently working on making a "[Virtual Bookshelf](https://github.com/KobeLemon/VirtualBookshelf)" where you can organize all of your media, such as books, music, TV shows, movies, and websites.
-- 🌱 I’m currently learning Godot, C#, Blazor, and Unit Testing.
-- 📝 My goals are to one day create my own indie game, and to become an expert in C# and Python.
+- 🔭 I am currently building the Game Design Document for a new game.
+- 🌱 I’m currently learning Godot, .NET Developement (C# & Blazor), and Software Testing.
+
+### 📝 My main goals:
+1. Graduate from college.
+2. Get a software dev full time job.
+3. Create my own video game & release it on a platform like GOG.com, Steam, Consoles, etc.
+4. Become an expert in C# and Python.
 
 ## Technologies and Tools
 
 - Proficient in: 
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg"  title="Godot" alt="Godot Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C Sharp Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML Logo" width="50" height="50"/>
