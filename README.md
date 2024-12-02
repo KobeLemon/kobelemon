@@ -6,7 +6,7 @@ I'm Kobe Lemon, a student at Brigham Young University-Idaho majoring in Software
 
 Here is my [Software Development Portfolio](https://kobelemon.github.io/kobe-web-portfolio/)!
 
-I just finished a demo of my first game, Maze Bouncer, made in the Godot Game Engine! I used assest from Brackey's "[First Game in Godot](https://www.youtube.com/watch?v=LOhfqjmasi0)" project & [Itch.io](https://itch.io/), but the overall game itself is my creation.
+I just finished a demo of my first game, Maze Bouncer, made in the Godot Game Engine! I used assets from Brackey's "[First Game in Godot](https://www.youtube.com/watch?v=LOhfqjmasi0)" project & [Itch.io](https://itch.io/), but the overall game itself is my creation.
 
 - [Click here](https://github.com/KobeLemon/maze-bouncer) for the repo!
 - [Click here](https://kobelemon.github.io/maze-bouncer-web/) for the live demo! (playable in your browser)
