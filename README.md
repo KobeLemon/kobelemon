@@ -2,25 +2,29 @@
 
 Hello, GitHub! 👋
 
-I'm Kobe Lemon, a student at Brigham Young University-Idaho majoring in Software Development. I am greatly interested in computer science, data science, web development, game development, and all things tech! Welcome to my GitHub profile!
+I am Kobe Lemon, a student at Brigham Young University-Idaho majoring in Software Development.
+
+I am greatly interested in computer science, data science, web development, game development, and all things tech!
+
+Welcome to my GitHub profile!
 
 Here is my [Software Development Portfolio](https://kobelemon.github.io/kobe-web-portfolio/)!
 
-I just finished a demo of my first game, Maze Bouncer, made in the Godot Game Engine! I used assets from Brackey's "[First Game in Godot](https://www.youtube.com/watch?v=LOhfqjmasi0)" project & [Itch.io](https://itch.io/), but the overall game itself is my creation.
+I just finished a demo of my first game, Maze Bouncer, made in the Godot Game Engine! I used assets from Brackey's "[First Game in Godot](https://www.youtube.com/watch?v=LOhfqjmasi0)" tutorial & from [Itch.io](https://itch.io/), but the overall game itself is my creation.
 
 - [Click here](https://github.com/KobeLemon/maze-bouncer) for the repo!
 - [Click here](https://kobelemon.github.io/maze-bouncer-web/) for the live demo! (playable in your browser)
 
 ## About Me
 
+- 🌱 I am currently learning .NET Developement with an emphasis on C#, Maui, & Blazor.
 - 🔭 I am currently building the Game Design Document for a new game.
-- 🌱 I’m currently learning Godot, .NET Developement (C# & Blazor), and Software Testing.
 
 ### 📝 My main goals:
 1. Graduate from college.
 2. Get a software dev full time job.
-3. Create my own video game & release it on a platform like GOG.com, Steam, Consoles, etc.
-4. Become an expert in C# and Python.
+3. Become an expert in C# and Python.
+4. Create my own video game & release it on a platform like GOG.com, Steam, Consoles, etc.
 
 ## Technologies and Tools
 
